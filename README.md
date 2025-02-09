@@ -1,6 +1,6 @@
 # DistilBERT Base Uncased Quantized Model for Sentiment Analysis
 
-This repository hosts a quantized version of the DistilBERT model, fine-tuned for sentiment analysis tasks. The model has been optimized for efficient deployment while maintaining high accuracy, making it suitable for resource-constrained environments.
+This repository hosts a quantized version of the DistilBERT Base Uncased model, fine-tuned for sentiment analysis tasks. The model has been optimized for efficient deployment while maintaining high accuracy, making it suitable for resource-constrained environments.
 
 ## Model Details
 
